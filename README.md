@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigKhach
 - 👀 I’m interested in tech in general and learning how to code
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on anything that will help me learn and gain experienceas a developer
+- 💞️ I’m looking to collaborate on anything that will help me learn and gain experience as a developer
 - 📫 Reach out on twitter @bigKhach
 
 <!---
